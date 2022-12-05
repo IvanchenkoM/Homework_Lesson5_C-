@@ -1,0 +1,15 @@
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\bin\Debug\net7.0\Task38.exe
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\bin\Debug\net7.0\Task38.deps.json
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\bin\Debug\net7.0\Task38.runtimeconfig.json
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\bin\Debug\net7.0\Task38.dll
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\bin\Debug\net7.0\Task38.pdb
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\obj\Debug\net7.0\Task38.csproj.AssemblyReference.cache
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\obj\Debug\net7.0\Task38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\obj\Debug\net7.0\Task38.AssemblyInfoInputs.cache
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\obj\Debug\net7.0\Task38.AssemblyInfo.cs
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\obj\Debug\net7.0\Task38.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\obj\Debug\net7.0\Task38.dll
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\obj\Debug\net7.0\refint\Task38.dll
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\obj\Debug\net7.0\Task38.pdb
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\obj\Debug\net7.0\Task38.genruntimeconfig.cache
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson5\Task38\obj\Debug\net7.0\ref\Task38.dll
